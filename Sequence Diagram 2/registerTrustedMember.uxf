@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>90</x>
-      <y>40</y>
+      <x>100</x>
+      <y>10</y>
       <w>80</w>
       <h>110</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>930</x>
-      <y>30</y>
+      <x>940</x>
+      <y>0</y>
       <w>100</w>
       <h>110</h>
     </coordinates>
@@ -26,8 +26,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>130</y>
+      <x>130</x>
+      <y>100</y>
       <w>30</w>
       <h>60</h>
     </coordinates>
@@ -37,8 +37,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>120</x>
-      <y>170</y>
+      <x>130</x>
+      <y>140</y>
       <w>20</w>
       <h>40</h>
     </coordinates>
@@ -48,8 +48,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>200</y>
+      <x>130</x>
+      <y>170</y>
       <w>30</w>
       <h>40</h>
     </coordinates>
@@ -59,8 +59,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>120</x>
-      <y>220</y>
+      <x>130</x>
+      <y>190</y>
       <w>20</w>
       <h>320</h>
     </coordinates>
@@ -70,8 +70,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>290</x>
-      <y>80</y>
+      <x>300</x>
+      <y>50</y>
       <w>130</w>
       <h>50</h>
     </coordinates>
@@ -82,8 +82,8 @@ _MemberBoundary_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>120</y>
+      <x>350</x>
+      <y>90</y>
       <w>30</w>
       <h>70</h>
     </coordinates>
@@ -93,8 +93,8 @@ _MemberBoundary_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>110</x>
-      <y>150</y>
+      <x>120</x>
+      <y>120</y>
       <w>270</w>
       <h>40</h>
     </coordinates>
@@ -105,8 +105,8 @@ _MemberBoundary_</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>340</x>
-      <y>170</y>
+      <x>350</x>
+      <y>140</y>
       <w>20</w>
       <h>340</h>
     </coordinates>
@@ -116,8 +116,8 @@ _MemberBoundary_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>130</x>
-      <y>200</y>
+      <x>140</x>
+      <y>170</y>
       <w>230</w>
       <h>40</h>
     </coordinates>
@@ -128,8 +128,8 @@ RequestForm</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>130</x>
-      <y>240</y>
+      <x>140</x>
+      <y>210</y>
       <w>230</w>
       <h>40</h>
     </coordinates>
@@ -140,20 +140,20 @@ RequestForm</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>280</y>
+      <x>360</x>
+      <y>250</y>
       <w>220</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-3. Validate information()</panel_attributes>
+2.1 Validate information()</panel_attributes>
     <additional_attributes>10.0;40.0;50.0;40.0;50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>510</x>
-      <y>80</y>
+      <x>520</x>
+      <y>50</y>
       <w>140</w>
       <h>50</h>
     </coordinates>
@@ -164,8 +164,8 @@ _MemberControl_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>120</y>
+      <x>580</x>
+      <y>90</y>
       <w>30</w>
       <h>260</h>
     </coordinates>
@@ -175,8 +175,8 @@ _MemberControl_</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>570</x>
-      <y>360</y>
+      <x>580</x>
+      <y>330</y>
       <w>20</w>
       <h>200</h>
     </coordinates>
@@ -186,20 +186,20 @@ _MemberControl_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>340</y>
+      <x>360</x>
+      <y>310</y>
       <w>240</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Create Request (information)</panel_attributes>
+2.2 Create Request (information)</panel_attributes>
     <additional_attributes>220.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>750</x>
-      <y>80</y>
+      <x>760</x>
+      <y>50</y>
       <w>140</w>
       <h>50</h>
     </coordinates>
@@ -210,8 +210,8 @@ _Request_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
-      <y>120</y>
+      <x>820</x>
+      <y>90</y>
       <w>30</w>
       <h>310</h>
     </coordinates>
@@ -222,19 +222,19 @@ _Request_</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>580</x>
-      <y>390</y>
-      <w>250</w>
+      <y>360</y>
+      <w>270</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Contruct new Request (information)</panel_attributes>
-    <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
+2.2.1 Contruct new Request (information)</panel_attributes>
+    <additional_attributes>240.0;20.0;20.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>810</x>
-      <y>410</y>
+      <x>820</x>
+      <y>380</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -244,20 +244,8 @@ Contruct new Request (information)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>450</y>
-      <w>240</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-Show nofitication ()</panel_attributes>
-    <additional_attributes>10.0;20.0;220.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>130</x>
-      <y>490</y>
+      <x>140</x>
+      <y>460</y>
       <w>230</w>
       <h>40</h>
     </coordinates>
@@ -268,8 +256,8 @@ Sucessful message</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>500</y>
+      <x>350</x>
+      <y>470</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -279,8 +267,8 @@ Sucessful message</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>340</x>
-      <y>560</y>
+      <x>350</x>
+      <y>530</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -290,20 +278,20 @@ Sucessful message</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>540</y>
+      <x>360</x>
+      <y>510</y>
       <w>240</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Notify to admin (member id)</panel_attributes>
+2.3 Notify to admin (member id)</panel_attributes>
     <additional_attributes>10.0;20.0;220.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>970</x>
-      <y>120</y>
+      <x>980</x>
+      <y>90</y>
       <w>30</w>
       <h>520</h>
     </coordinates>
@@ -313,8 +301,8 @@ Notify to admin (member id)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>600</y>
+      <x>360</x>
+      <y>570</y>
       <w>650</w>
       <h>40</h>
     </coordinates>
@@ -325,8 +313,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
-      <y>460</y>
+      <x>820</x>
+      <y>430</y>
       <w>30</w>
       <h>400</h>
     </coordinates>
@@ -336,8 +324,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>550</y>
+      <x>580</x>
+      <y>520</y>
       <w>30</w>
       <h>310</h>
     </coordinates>
@@ -347,8 +335,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>530</y>
+      <x>130</x>
+      <y>500</y>
       <w>30</w>
       <h>190</h>
     </coordinates>
@@ -358,8 +346,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>610</y>
+      <x>350</x>
+      <y>580</y>
       <w>30</w>
       <h>110</h>
     </coordinates>
@@ -369,8 +357,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>970</x>
-      <y>620</y>
+      <x>980</x>
+      <y>590</y>
       <w>20</w>
       <h>40</h>
     </coordinates>
@@ -380,8 +368,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>340</x>
-      <y>700</y>
+      <x>350</x>
+      <y>670</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -391,8 +379,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>120</x>
-      <y>700</y>
+      <x>130</x>
+      <y>670</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -402,8 +390,8 @@ Trusted Member request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>680</y>
+      <x>130</x>
+      <y>650</y>
       <w>240</w>
       <h>40</h>
     </coordinates>
@@ -414,8 +402,8 @@ Invalid information</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>70</x>
-      <y>270</y>
+      <x>80</x>
+      <y>240</y>
       <w>980</w>
       <h>400</h>
     </coordinates>
@@ -426,8 +414,8 @@ Invalid information</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>970</x>
-      <y>650</y>
+      <x>980</x>
+      <y>620</y>
       <w>30</w>
       <h>470</h>
     </coordinates>
@@ -437,8 +425,8 @@ Invalid information</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>70</x>
-      <y>670</y>
+      <x>80</x>
+      <y>640</y>
       <w>980</w>
       <h>140</h>
     </coordinates>
@@ -448,8 +436,8 @@ Invalid information</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>750</y>
+      <x>350</x>
+      <y>720</y>
       <w>30</w>
       <h>180</h>
     </coordinates>
@@ -459,8 +447,8 @@ Invalid information</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>750</y>
+      <x>130</x>
+      <y>720</y>
       <w>30</w>
       <h>230</h>
     </coordinates>
@@ -470,8 +458,8 @@ Invalid information</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>570</x>
-      <y>840</y>
+      <x>580</x>
+      <y>810</y>
       <w>20</w>
       <h>50</h>
     </coordinates>
@@ -481,8 +469,8 @@ Invalid information</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>570</x>
-      <y>910</y>
+      <x>580</x>
+      <y>880</y>
       <w>20</w>
       <h>50</h>
     </coordinates>
@@ -492,8 +480,8 @@ Invalid information</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>880</y>
+      <x>580</x>
+      <y>850</y>
       <w>30</w>
       <h>50</h>
     </coordinates>
@@ -503,20 +491,20 @@ Invalid information</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>820</y>
+      <x>580</x>
+      <y>790</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Desconstruct request (request id)</panel_attributes>
+3. Desconstruct request (request id)</panel_attributes>
     <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>810</x>
-      <y>840</y>
+      <x>820</x>
+      <y>810</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -526,20 +514,20 @@ Desconstruct request (request id)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>890</y>
+      <x>350</x>
+      <y>860</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Send approved result (member id)</panel_attributes>
+4. Send approved result (member id)</panel_attributes>
     <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>340</x>
-      <y>910</y>
+      <x>350</x>
+      <y>880</y>
       <w>20</w>
       <h>50</h>
     </coordinates>
@@ -547,22 +535,10 @@ Send approved result (member id)</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>120</x>
-      <y>940</y>
-      <w>240</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-Notify approved result</panel_attributes>
-    <additional_attributes>10.0;20.0;220.0;20.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>120</x>
-      <y>960</y>
+      <x>130</x>
+      <y>930</y>
       <w>20</w>
       <h>60</h>
     </coordinates>
@@ -572,10 +548,10 @@ Notify approved result</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>70</x>
-      <y>810</y>
+      <x>80</x>
+      <y>780</y>
       <w>810</w>
-      <h>230</h>
+      <h>220</h>
     </coordinates>
     <panel_attributes>After admin approved
 </panel_attributes>
@@ -584,8 +560,8 @@ Notify approved result</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
-      <y>890</y>
+      <x>820</x>
+      <y>860</y>
       <w>30</w>
       <h>240</h>
     </coordinates>
@@ -595,8 +571,8 @@ Notify approved result</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>950</y>
+      <x>580</x>
+      <y>920</y>
       <w>30</w>
       <h>160</h>
     </coordinates>
@@ -606,8 +582,8 @@ Notify approved result</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>340</x>
-      <y>950</y>
+      <x>350</x>
+      <y>920</y>
       <w>30</w>
       <h>160</h>
     </coordinates>
@@ -617,12 +593,36 @@ Notify approved result</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>120</x>
-      <y>1010</y>
+      <x>130</x>
+      <y>980</y>
       <w>30</w>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>360</x>
+      <y>420</y>
+      <w>240</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+Sucessful message</panel_attributes>
+    <additional_attributes>220.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>910</y>
+      <w>230</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+approved result message</panel_attributes>
+    <additional_attributes>210.0;20.0;10.0;20.0</additional_attributes>
   </element>
 </diagram>

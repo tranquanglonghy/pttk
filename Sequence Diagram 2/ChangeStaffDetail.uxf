@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>88</x>
-      <y>11</y>
+      <x>55</x>
+      <y>22</y>
       <w>132</w>
       <h>121</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>55</y>
+      <x>330</x>
+      <y>66</y>
       <w>132</w>
       <h>55</h>
     </coordinates>
@@ -27,8 +27,8 @@ _Boundary_</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>528</x>
-      <y>55</y>
+      <x>594</x>
+      <y>66</y>
       <w>121</w>
       <h>55</h>
     </coordinates>
@@ -39,8 +39,8 @@ _Control_</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>704</x>
-      <y>55</y>
+      <x>803</x>
+      <y>66</y>
       <w>110</w>
       <h>55</h>
     </coordinates>
@@ -50,8 +50,8 @@ _Control_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>143</x>
-      <y>110</y>
+      <x>110</x>
+      <y>121</y>
       <w>33</w>
       <h>77</h>
     </coordinates>
@@ -59,21 +59,10 @@ _Control_</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>143</x>
-      <y>165</y>
-      <w>22</w>
-      <h>66</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>363</x>
-      <y>99</y>
+      <x>385</x>
+      <y>110</y>
       <w>33</w>
       <h>88</h>
     </coordinates>
@@ -83,8 +72,8 @@ _Control_</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>363</x>
-      <y>165</y>
+      <x>385</x>
+      <y>176</y>
       <w>22</w>
       <h>77</h>
     </coordinates>
@@ -94,67 +83,22 @@ _Control_</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>143</x>
-      <y>220</y>
-      <w>33</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>143</x>
-      <y>242</y>
-      <w>22</w>
-      <h>66</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>154</x>
-      <y>143</y>
-      <w>231</w>
+      <x>121</x>
+      <y>154</y>
+      <w>286</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 2. request change staff detail ()</panel_attributes>
-    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>154</x>
-      <y>220</y>
-      <w>231</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=.&gt;
-request form</panel_attributes>
-    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>143</x>
-      <y>297</y>
-      <w>33</w>
-      <h>55</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;30.0</additional_attributes>
+    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>143</x>
-      <y>330</y>
+      <x>110</x>
+      <y>176</y>
       <w>22</w>
-      <h>220</h>
+      <h>385</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -162,8 +106,8 @@ request form</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>363</x>
-      <y>231</y>
+      <x>385</x>
+      <y>242</y>
       <w>33</w>
       <h>121</h>
     </coordinates>
@@ -173,8 +117,8 @@ request form</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>363</x>
-      <y>330</y>
+      <x>385</x>
+      <y>341</y>
       <w>22</w>
       <h>165</h>
     </coordinates>
@@ -184,77 +128,42 @@ request form</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>154</x>
-      <y>308</y>
-      <w>231</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-3. enter information</panel_attributes>
-    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>374</x>
-      <y>374</y>
-      <w>275</w>
-      <h>55</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-3,1 retrieve staff details (id)</panel_attributes>
-    <additional_attributes>10.0;30.0;60.0;30.0;60.0;10.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>154</x>
-      <y>473</y>
-      <w>231</w>
+      <x>121</x>
+      <y>484</y>
+      <w>286</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
 staff derails</panel_attributes>
-    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>143</x>
-      <y>539</y>
+      <x>110</x>
+      <y>550</y>
       <w>33</w>
-      <h>66</h>
+      <h>187</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>143</x>
-      <y>583</y>
-      <w>22</w>
-      <h>66</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
+    <additional_attributes>10.0;10.0;10.0;150.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>363</x>
-      <y>484</y>
+      <x>385</x>
+      <y>495</y>
       <w>33</w>
-      <h>121</h>
+      <h>88</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>363</x>
-      <y>583</y>
+      <x>385</x>
+      <y>561</y>
       <w>22</w>
       <h>121</h>
     </coordinates>
@@ -264,8 +173,30 @@ staff derails</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>583</x>
-      <y>99</y>
+      <x>649</x>
+      <y>110</y>
+      <w>33</w>
+      <h>506</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;440.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>649</x>
+      <y>594</y>
+      <w>22</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>847</x>
+      <y>110</y>
       <w>33</w>
       <h>550</h>
     </coordinates>
@@ -275,30 +206,8 @@ staff derails</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>583</x>
-      <y>627</y>
-      <w>22</w>
-      <h>88</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>748</x>
-      <y>99</y>
-      <w>33</w>
-      <h>594</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;520.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>748</x>
-      <y>671</y>
+      <x>847</x>
+      <y>638</y>
       <w>22</w>
       <h>55</h>
     </coordinates>
@@ -308,53 +217,53 @@ staff derails</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>363</x>
-      <y>605</y>
-      <w>253</w>
+      <x>396</x>
+      <y>572</y>
+      <w>275</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 4.1change staff detail (information)</panel_attributes>
-    <additional_attributes>200.0;20.0;20.0;20.0</additional_attributes>
+    <additional_attributes>230.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>583</x>
-      <y>649</y>
-      <w>198</w>
+      <x>660</x>
+      <y>616</y>
+      <w>209</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 4.1.1 update (information)</panel_attributes>
-    <additional_attributes>150.0;20.0;20.0;20.0</additional_attributes>
+    <additional_attributes>170.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>143</x>
-      <y>638</y>
+      <x>110</x>
+      <y>704</y>
       <w>33</w>
-      <h>165</h>
+      <h>99</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>363</x>
-      <y>693</y>
+      <x>385</x>
+      <y>671</y>
       <w>33</w>
-      <h>110</h>
+      <h>132</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>363</x>
+      <x>385</x>
       <y>781</y>
       <w>22</w>
       <h>66</h>
@@ -365,7 +274,7 @@ staff derails</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>143</x>
+      <x>110</x>
       <y>781</y>
       <w>22</w>
       <h>66</h>
@@ -376,30 +285,7 @@ staff derails</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>154</x>
-      <y>759</y>
-      <w>231</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=.&gt;
-error message</panel_attributes>
-    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>143</x>
-      <y>836</y>
-      <w>33</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>363</x>
+      <x>110</x>
       <y>836</y>
       <w>33</w>
       <h>88</h>
@@ -410,35 +296,116 @@ error message</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>143</x>
-      <y>561</y>
-      <w>253</w>
+      <x>385</x>
+      <y>836</y>
+      <w>33</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>121</x>
+      <y>539</y>
+      <w>286</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 4. change staff detail ( information )</panel_attributes>
-    <additional_attributes>200.0;20.0;20.0;20.0</additional_attributes>
+    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>583</x>
-      <y>704</y>
+      <x>649</x>
+      <y>671</y>
       <w>33</w>
+      <h>253</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;210.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>847</x>
+      <y>682</y>
+      <w>33</w>
+      <h>242</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>121</x>
+      <y>231</y>
+      <w>286</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+List of staff</panel_attributes>
+    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>121</x>
+      <y>319</y>
+      <w>286</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+3. select staff (id )</panel_attributes>
+    <additional_attributes>240.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>396</x>
+      <y>396</y>
+      <w>286</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+3,1 retrieve staff details (id)</panel_attributes>
+    <additional_attributes>10.0;40.0;70.0;40.0;70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>110</x>
+      <y>759</y>
+      <w>308</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+4. Cancel change staff detail (information)</panel_attributes>
+    <additional_attributes>250.0;20.0;20.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>33</x>
+      <y>517</y>
+      <w>913</w>
       <h>198</h>
     </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+    <panel_attributes>Change staff detail</panel_attributes>
+    <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
+    <id>UMLNote</id>
     <coordinates>
-      <x>748</x>
+      <x>33</x>
       <y>715</y>
-      <w>33</w>
-      <h>187</h>
+      <w>913</w>
+      <h>143</h>
     </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;150.0</additional_attributes>
+    <panel_attributes>Cancel change</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
