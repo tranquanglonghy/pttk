@@ -148,7 +148,7 @@
     <id>Relation</id>
     <coordinates>
       <x>72</x>
-      <y>96</y>
+      <y>128</y>
       <w>168</w>
       <h>32</h>
     </coordinates>
@@ -340,5 +340,17 @@ display("Thông tin sai định dạng")</panel_attributes>
     <panel_attributes>lt=&lt;-
 checkInfor()</panel_attributes>
     <additional_attributes>10.0;50.0;90.0;50.0;90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>72</x>
+      <y>104</y>
+      <w>168</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+ //Nhập thông tin đăng kí</panel_attributes>
+    <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
 </diagram>
